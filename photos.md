@@ -2,4 +2,4 @@
 layout: gallery
 ---
 
-Here are some of my photos 😉
+Please enjoy this small selection of my photos 😉
