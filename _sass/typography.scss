@@ -1,6 +1,10 @@
 @import "vars";
 
 .content {
+    h2 {
+        margin-block-start: 1.5em;
+        // TODO
+    }
     a:hover {
         text-decoration: underline;
     }
