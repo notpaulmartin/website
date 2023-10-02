@@ -1,11 +1,11 @@
 title: Paul Martin
-url: "https://ankitsultana.com"
+url: "https://PaulsBitsAndBytes.com"
 baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
-tracking_id: #
+use_tracking: yes  # https://notpaul.goatcounter.com/
 
 footer: no
 footer_url: "https://github.com/notpaulmartin"
@@ -22,3 +22,5 @@ nav:
    link: "https://raw.githubusercontent.com/notpaulmartin/CV/main/cv_pmartin.pdf"
  - name: "Contact"
    link: "contact"
+ - name: "Photos"
+   link: "photos"
