@@ -1,6 +1,6 @@
-title: Researcher
+title: Paul Martin
 url: "https://ankitsultana.com"
-baseurl: "/researcher"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/notpaulmartin"
+footer_text: "Page based on the researcher template for Jekyll"
 
 sass:
     style: compressed
@@ -17,8 +17,8 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/"
  - name: "Resume"
-   link: "resume.pdf"
+   link: "https://raw.githubusercontent.com/notpaulmartin/CV/main/cv_pmartin.pdf"
  - name: "Contact"
    link: "contact"

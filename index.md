@@ -2,44 +2,47 @@
 layout: default
 ---
 
-## About Me
+<!-- ## About Me -->
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="whiteboard.jpeg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+<!-- TODO: quick description -->
+Hi! I'm Paul. I am a masters student in Informatics at the [University of Edinburgh](https://www.ed.ac.uk/). I am intersted in all things learning, of silicon and biological nature.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I have a strong background in deep learning, with my Bachelor's thesis on model compression achieving an 80% mark. For my Master's thesis I am currently researching optimisers for the distributed training of deep neural networks.
 
-## Research Interest
+For more details, see my [previous work](#previous-work).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+When I'm not studying or researching deep learning methods, I am probably on a run🏃, taking photos📷 or hiking through the Scottish highlands⛰️.
 
-## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+## Research Interests
+<!-- TODO: Links to intersting papers -->
+- Foundational Deep Learning Methods  
+    (Architectures, Training paradigms, Model compression, etc.)
+- Computational Molecular Biology
+- Computational Neuroscience: Biologically grounded models of cognition, behaviour and illnesses
+- Natural Language Processing
 
-## Typography
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+## Current research
+<!-- TODO:
+- Spectral Coarsening paper
+- MAC -->
 
-Here is a table
+## Previous work
+1. Bachelor's thesis on Cross-Architecture Knowledge Distillation with mismatched output lengths.  
+_Achieved an 80% (A2)_  <!-- TODO: Link diss -->
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+## Other experience
+1. Teaching Assistant for [Machine Learning](http://www.drps.ed.ac.uk/23-24/dpt/cxinfr10086.htm) @2023/24
 
-Here is a horizontal rule
+2. Research Assistant intern for [Dr Kartic Subr](https://homepages.inf.ed.ac.uk/ksubr/), working on Graph Neural Networks for spectral coarsening of 3d meshes. @Summer 2023
 
----
+3. Tutor for [Machine Learning](http://www.drps.ed.ac.uk/23-24/dpt/cxinfr10086.htm) @2022/23
 
-Here is a blockquote
 
-> To a great mind, nothing is little
+## Courses
 
-## References
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+<!-- TODO: Tab for photography -->
