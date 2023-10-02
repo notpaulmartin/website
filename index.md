@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<!-- TODO: More spacing above h2 -->
-
 <img class="profile-picture" src="whiteboard.jpeg">
 
 Hi! I'm Paul. I am a masters student in Informatics at the [University of Edinburgh](https://www.ed.ac.uk/). I am intersted in all things learning, of silicon and biological nature.
@@ -60,8 +58,17 @@ Several other courseworks in Speech Processing, Computational Neuroscience, Mach
 
 4. Exchange year at the University of Hong Kong @2021/2022
 
-<!-- ## Courses -->
 
+## Favourite Courses
+- Computational Neuroscience
+- Natural Language Understanding, Generation, and Machine Translation \\
+    _(What a long name 😂)_
+- Automatic Speech Recognition
+- Bioinformatics
+- Quantum Information and Computation 
+    _(Amazingly taught)_
+
+---
 
 <!-- TODO: Tab for photography -->
 <!-- TODO: Tab for thesis -->
