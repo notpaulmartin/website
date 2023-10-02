@@ -62,7 +62,7 @@ Several other courseworks in Speech Processing, Computational Neuroscience, Mach
 ## Favourite Courses
 - Computational Neuroscience
 - Natural Language Understanding, Generation, and Machine Translation \\
-    _(What a long name 😂)_
+    _(What a long name 😄)_
 - Automatic Speech Recognition
 - Bioinformatics
 - Quantum Information and Computation 
