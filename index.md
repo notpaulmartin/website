@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" src="whiteboard.jpeg">
 
-Hi! I'm Paul. I am a masters student in Informatics at the [University of Edinburgh](https://www.ed.ac.uk/). I am intersted in all things learning, of silicon and biological nature.
+Hi! I'm Paul. I am a masters student in Informatics at the [University of Edinburgh](https://www.ed.ac.uk/). I am interested in all things learning, of silicon and biological nature.
 
 I have a strong background in Deep Learning, with my Bachelor's thesis on model compression achieving an 80% mark. For my Master's thesis I am currently researching optimisers for the distributed training of deep neural networks.
 
@@ -14,11 +14,11 @@ When I'm not studying or researching deep learning methods, I am probably on a r
 
 
 ## Research Interests
-<!-- TODO: Links to intersting papers -->
+<!-- TODO: Links to interesting papers -->
 - Foundational Deep Learning Methods  
     (Architectures, Training paradigms, Model compression, etc.)
-- Computational Molecular Biology
 - Computational Neuroscience: Biologically grounded models of cognition, behaviour and illnesses
+- Computational Molecular Biology
 - Natural Language Processing
 
 
@@ -38,7 +38,7 @@ _Achieved an 80% (A2)_. \\
 [View PDF →](/documents/MInf1 - Paul Martin.pdf)  
 
 2. Review of a Biologically Inspired Neural Network to Model PTSD and Eye Movement Desensitisation Reprocessing Therapy. \\
-Coursework in Computation Cognitive Neuroscience, taught by Peggy Seriès. \\
+Coursework in Computational Cognitive Neuroscience, taught by Peggy Seriès. \\
 _Achieved an 80% (A2)_. \\
 [View PDF →](/documents/CCN Review - Paul Martin.pdf)
 
@@ -52,7 +52,7 @@ Several other courseworks in Speech Processing, Computational Neuroscience, Mach
 ## Other experience
 1. Teaching Assistant for [Machine Learning](http://www.drps.ed.ac.uk/23-24/dpt/cxinfr10086.htm) @2023/24
 
-2. Research Assistant intern for [Kartic Subr](https://homepages.inf.ed.ac.uk/ksubr/), working on Graph Neural Networks for spectral coarsening of 3d meshes. @Summer 2023
+2. Research Assistant intern for [Kartic Subr](https://homepages.inf.ed.ac.uk/ksubr/), working on Graph Neural Networks for spectral coarsening of 3D meshes. @Summer 2023
 
 3. Tutor for [Machine Learning](http://www.drps.ed.ac.uk/23-24/dpt/cxinfr10086.htm) @2022/23
 
