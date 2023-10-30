@@ -18,7 +18,7 @@ When I'm not studying or researching deep learning methods, I am probably on a r
 - Foundational Deep Learning Methods  
     (Architectures, Training paradigms, Model compression, etc.)
 - Computational Neuroscience: Biologically grounded models of cognition, behaviour and illnesses
-- Computational Molecular Biology
+- Computational Molecular Biology & Drug Discovery
 - Natural Language Processing
 
 
@@ -27,7 +27,7 @@ When I'm not studying or researching deep learning methods, I am probably on a r
 - Distributed optimisation of Deep Neural Networks.  
 _Part of my Master's thesis with Hao Tang._
 
-- Leveraging Graph Neural Networks (GNNs) for the automated determination of parameter sets for 3D meshes, particularly for a [novel spectral coarsening algorithm](https://arxiv.org/abs/2207.01146v2). This approach is aimed at expediting the computation of mesh parameters, to improve the efficiency of physics simulations on these meshes while maintaining a high level of accuracy. Previously, this task involved computationally expensive high-dimensional optimization methods, which the GNN method significantly accelerates.  
+- Leveraging Graph Neural Networks (GNNs) for the automated determination of parameter sets for 3D meshes, particularly for a [novel spectral coarsening algorithm](https://arxiv.org/abs/2207.01146v2). This approach is aimed at expediting the computation of mesh parameters, to improve the efficiency of physics simulations on these meshes while maintaining a high level of accuracy. Previously, this task involved computationally expensive high-dimensional optimisation methods, which the GNN method significantly accelerates.  
 _Part of my research internship with Kartic Subr._
 
 
