@@ -17,9 +17,9 @@ When I'm not studying or researching deep learning methods, I am probably on a r
 <!-- TODO: Links to interesting papers -->
 - Foundational Deep Learning Methods  
     (Architectures, Training paradigms, Model compression, etc.)
-- Computational Neuroscience: Biologically grounded models of cognition, behaviour and illnesses
 - Computational Molecular Biology & Drug Discovery
 - Natural Language Processing
+- Computational Neuroscience: Biologically grounded models of cognition, behaviour and illnesses
 
 
 ## Current research
