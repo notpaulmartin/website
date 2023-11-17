@@ -3,7 +3,7 @@
 .content {
     h2 {
         margin-block-start: 1.5em;
-        font-size: 150%;  // Only for Mono-spaced fonts; Otherwise 120%
+        font-size: 120%;  // Only for Mono-spaced fonts; Otherwise 120%
         // TODO
     }
     a:hover {
@@ -33,6 +33,9 @@
         counter-increment: list;
         position: absolute;
         left: -30px;
+        top: .15em;
+        font-family: "Jetbrains Mono";
+        font-size: 80%;
     }
     blockquote {
         //border: 1px solid black;

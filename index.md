@@ -4,9 +4,9 @@ layout: default
 
 <img class="profile-picture" src="whiteboard.jpeg">
 
-Hi! I'm Paul. I am a masters student in Informatics at the [University of Edinburgh](https://www.ed.ac.uk/). I am interested in all things learning, of silicon and biological nature.
+Hi! I'm Paul. I am a Masters student in Informatics at the [University of Edinburgh](https://www.ed.ac.uk/). I am interested in all things learning, of silicon and biological nature.
 
-I have a strong background in Deep Learning, with my Bachelor's thesis on model compression achieving an 80% mark. For my Master's thesis I am currently researching optimisers for the distributed training of deep neural networks.
+I have a strong background in deep learning, with my Bachelor's thesis on model compression and my current Master's thesis on distributed optimisation for deep neural networks.
 
 For more details, see my previous work [below](#previous-work).
 
@@ -62,7 +62,7 @@ Several other courseworks in Speech Processing, Computational Neuroscience, Mach
 ## Favourite Courses
 - Computational Neuroscience
 - Natural Language Understanding, Generation, and Machine Translation \\
-    _(What a long name 😄)_
+    _(Yes, that's all one course 😄)_
 - Automatic Speech Recognition
 - Bioinformatics
 - Quantum Information and Computation 

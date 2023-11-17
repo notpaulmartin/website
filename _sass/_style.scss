@@ -12,11 +12,12 @@ html {
 }
 body {
     margin: 0;
-    font-family: "Jetbrains Mono";
-    font-size: 0.8em;  // Jetbrains Mono is too big
-    line-height: 1.3;
+    font-family: "Karla";
+    font-size: 0.9em;  // Jetbrains Mono is too big
+    line-height: 1.5;
     height: 100%;
     background-color: #fdfdfd;
+    color: $textcolor;
 }
 a {
     text-decoration: none;
