@@ -3,6 +3,7 @@
 .content {
     h2 {
         margin-block-start: 1.5em;
+        font-size: 150%;  // Only for Mono-spaced fonts; Otherwise 120%
         // TODO
     }
     a:hover {

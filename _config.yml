@@ -20,6 +20,7 @@ nav:
    link: "/"
  - name: "Resume"
    link: "https://raw.githubusercontent.com/notpaulmartin/CV/main/cv_pmartin.pdf"
+   openInNewTab: Yes
  - name: "Contact"
    link: "contact"
  - name: "Photos"

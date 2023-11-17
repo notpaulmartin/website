@@ -2,6 +2,11 @@
 
 Based on the Jekyll [researcher theme](https://github.com/ankitsultana/researcher) by Ankit Sultana.
 
+### Local preview
+```
+jekyll serve
+```
+
 
 ### Customization
 
