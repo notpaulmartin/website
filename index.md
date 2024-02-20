@@ -6,19 +6,19 @@ layout: default
 
 Hi! I'm Paul. I am a Masters student in Informatics at the [University of Edinburgh](https://www.ed.ac.uk/). I am interested in all things learning, of silicon and biological nature.
 
-I have a strong background in deep learning, with my Bachelor's thesis on model compression and my current Master's thesis on distributed optimisation for deep neural networks.
+I have a strong background in deep learning and NLP, with my Bachelor's thesis on compressing speech recognition models and my current Master's thesis on distributed optimisation for deep neural networks.
 
 For more details, see my previous work [below](#previous-work).
 
-When I'm not studying or researching deep learning methods, I am probably on a run🏃, taking photos📷 or hiking through the Scottish highlands⛰️.
+When I'm not studying or researching deep learning methods, I am probably on a run🏃, taking photos📷 or hiking through the Scottish Highlands⛰️.
 
 
 ## Research Interests
 <!-- TODO: Links to interesting papers -->
 - Foundational Deep Learning Methods  
     (Architectures, Training paradigms, Model compression, etc.)
-- Computational Molecular Biology & Drug Discovery
 - Natural Language Processing
+- Computational Molecular Biology & Drug Discovery
 - Computational Neuroscience: Biologically grounded models of cognition, behaviour and illnesses
 
 
