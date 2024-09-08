@@ -4,7 +4,7 @@ Based on the Jekyll [researcher theme](https://github.com/ankitsultana/researche
 
 ### Local preview
 ```
-jekyll serve
+bundle exec jekyll serve
 ```
 
 
