@@ -4,13 +4,13 @@ layout: default
 
 <img class="profile-picture" src="whiteboard.jpeg">
 
-Hi! I'm Paul. I am an incoming PhD student in the [Language Technology Lab](https://ltl.mmll.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/), focusing on _Modular and Efficient Deep Learning for NLP_ under supervision by [Ivan Vulić](https://sites.google.com/site/ivanvulic/home) and [Edoardo Ponti](https://ducdauge.github.io/).
+Hi! I'm Paul. I am a PhD student in the [Language Technology Lab](https://ltl.mmll.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/), focusing on _Modular and Efficient Deep Learning for NLP_ under supervision by [Ivan Vulić](https://sites.google.com/site/ivanvulic/home) and [Edoardo Ponti](https://ducdauge.github.io/).
 
 I previously obtained my Master of Informatics (MInf) in 2023 from the [University of Edinburgh](https://www.ed.ac.uk/), where I worked on Distributed Training and Cross-Architecture Knowledge Distillation under supervision by [Hao Tang](https://homepages.inf.ed.ac.uk/htang2/).
 
 <!-- For more details, see my previous work [below](#previous-work). -->
 
-When I'm not studying or researching deep learning methods, I am probably on a run🏃, taking photos📷 or hiking through the Scottish Highlands⛰️.
+When I'm not studying or researching deep learning methods, I am probably on a run🏃, taking photos📷 or travelling somewhere⛰️.
 
 
 ## Research Interests
